@@ -17,5 +17,6 @@
     neovim
     git
     curl
+    fastfetch
   ];
 }
